@@ -1,4 +1,4 @@
-package com.feiyue.example.spring.cloud;
+package com.feiyue.helloworld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
