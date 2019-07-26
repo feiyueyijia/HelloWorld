@@ -7,8 +7,8 @@
 
     <groupId>feiyue</groupId>
     <artifactId>helloworld</artifactId>
+    <version>${project.release.version}</version>
     <packaging>jar</packaging>
-    <version>0.0.1-SNAPSHOT</version>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -17,6 +17,7 @@
     </parent>
 
     <properties>
+        <project.release.version>0.0.1-SNAPSHOT</project.release.version>
         <spring-boot.version>2.0.4.RELEASE</spring-boot.version>
         <spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
     </properties>
