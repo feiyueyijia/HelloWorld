@@ -10,8 +10,8 @@
     <version>${project.release.version}</version>
     <packaging>jar</packaging>
 
-    <!--<name>HelloWorld</name>-->
-    <!--<description>Jenkins 整合 SpringCloud 测试示例项目</description>-->
+    <name>HelloWorld</name>
+    <description>Jenkins 整合 SpringCloud 测试示例项目</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
